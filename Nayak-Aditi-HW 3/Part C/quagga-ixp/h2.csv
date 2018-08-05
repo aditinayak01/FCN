@@ -1,0 +1,7 @@
+Nodes,Distance,NextHop
+h1,1000,N
+r1,1000,N
+r2,6,r4
+r3,7,r4
+r4,2,r4
+h2,0,N
